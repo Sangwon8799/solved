@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/ubuntu/Baekjoon/solved/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+MAX_DIST	1064.cpp	/^#define MAX_DIST /;"	d	file:
+MAX_SIZE	1064.cpp	/^#define MAX_SIZE /;"	d	file:
+five	바킹독/0x01-test1.c	/^int five = 5;$/;"	v	typeref:typename:int
+get_dist	1064.cpp	/^get_dist (struct point *a, struct point *b)$/;"	f	typeref:typename:double
+get_five	바킹독/0x01-test1.c	/^get_five (int n)$/;"	f	typeref:typename:int
+get_index	1064.cpp	/^get_index (int i)$/;"	f	typeref:typename:int	file:
+is_collinear	1064.cpp	/^is_collinear (struct point pos[MAX_SIZE])$/;"	f	typeref:typename:bool
+main	1064.cpp	/^main ()$/;"	f	typeref:typename:int
+main	바킹독/0x01-test1.c	/^int main()$/;"	f	typeref:typename:int
+point	1064.cpp	/^struct point$/;"	s	file:
+x	1064.cpp	/^	int x;$/;"	m	struct:point	typeref:typename:int	file:
+y	1064.cpp	/^	int y;$/;"	m	struct:point	typeref:typename:int	file:
